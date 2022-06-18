@@ -122,9 +122,9 @@
 }
 
 #pic img {
-    display: inline;
+    display: flex;
     width: 300px;
-    left: -6%;
+    left: -10%;
     top: 14.5%;
     position: absolute;
     /* transition: all 3s ease-in-out; */
