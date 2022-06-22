@@ -42,7 +42,6 @@
 
 }
 
-#navbar li {}
 
 #navbar ul li a {
     text-decoration: none;
@@ -62,20 +61,18 @@
 
 }
 
-/* Home's section 
-#pic img {
+/* Home's section */
+/* #pic img {
     display: flex;
     width: 300px;
     left: -10%;
     top: 14.5%;
     position: absolute;
     /* transition: all 3s ease-in-out; */
-   /* animation: rotation 16s infinite linear;*/
+    /* animation: rotation 16s infinite linear; */
     /* z-index: -1; */
+      /* } */
 
-}
-
-*/
 .home div {
     display: flex;
     flex-direction: column;
@@ -138,8 +135,8 @@
 } */
 
 
-/* rotating the imahge 
-@keyframes rotation {
+/* rotating the imahge */
+/* @keyframes rotation {
     from {
         transform: rotate(0deg);
     }
@@ -147,13 +144,12 @@
     to {
         transform: rotate(360deg);
     }
-}
-*/
+} */
 
 .btn {
     font-family: 'Baloo Chettan 2', cursive;
     width: 400px;
-    height: 46px;
+    width: 19rem ;
     border-radius: 13px;
     background-color: white;
     margin: 10px;
