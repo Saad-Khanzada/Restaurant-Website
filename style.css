@@ -70,7 +70,7 @@
     top: 14.5%;
     position: absolute;
     /* transition: all 3s ease-in-out; */
-    animation: rotation 16s infinite linear;
+   /* animation: rotation 16s infinite linear;*/
     /* z-index: -1; */
 
 }
