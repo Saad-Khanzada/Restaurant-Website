@@ -62,7 +62,7 @@
 
 }
 
-/* Home's section */
+/* Home's section 
 #pic img {
     display: flex;
     width: 300px;
@@ -72,7 +72,10 @@
     /* transition: all 3s ease-in-out; */
     animation: rotation 16s infinite linear;
     /* z-index: -1; */
+
 }
+
+*/
 .home div {
     display: flex;
     flex-direction: column;
@@ -135,7 +138,7 @@
 } */
 
 
-/* rotating the imahge */
+/* rotating the imahge 
 @keyframes rotation {
     from {
         transform: rotate(0deg);
@@ -145,6 +148,7 @@
         transform: rotate(360deg);
     }
 }
+*/
 
 .btn {
     font-family: 'Baloo Chettan 2', cursive;
@@ -169,7 +173,7 @@
 
 /* Servies page */
 .services {
-    margin: 70px;
+    margin-top: 58px;
     text-align: center;
     position: relative;
 
